@@ -8,3 +8,19 @@
 Botanica Caroliniana is an inter-institutional, inter-disciplinary collaborative project in research, teaching, and publication, that focuses on the botany of the Carolinas from their earliest exploration by Europeans to living plants under curation and in the wild today. This work addresses modern botanical science in its own terms, but also as a legacy of (and actor in) intellectual, economic, and political history going back to ancient scientists and works of natural history in Greek and Latin. This project invites collaboration among professional scholars, graduate students, and particularly undergradutes in the disciplines of Botany, Environmental Science, American History, Classics, and Computer Science.
 
 The project’s deliverables will be traditional scholarly articles on historical, linguistic, and scientific topics, but its true aims are (a) to provide educational experiences to students at two institutions enriched by focused work toward meangingful contributions to knowledge, and (b) an expanding body of well-documented data in open formats and under open-content licenses, available for use, integration, and re-purposing through a flexible and ontologically rigorous digital library architecture.
+
+## _Botanica Caroliniana_ Repositories
+
+- [BotCar Oranization Page](https://github.com/botcar). The [GitHub Organization](https://github.com/blog/674-introducing-organizations) that brings together the various data repositories for the project.
+- [botcar.github.io](https://github.com/botcar/botcar.github.io). This informational repository.
+- [botcar-data](https://github.com/botcar/botcar-data). XML texts, [CTS Text Inventories][cts], [CITE Image and Data collections][cite].
+- [botcar-servlet](https://github.com/botcar/botcar-servlet). A fork of the [CITE Servlet](https://github.com/cite-architecture/citeservlet) for serving texts, images, and data via CITE/CTS.
+- [botcar-website](https://github.com/botcar/botcar-website). The repository for the [Botanica Caroliniana](http://folio.furman.edu/projects/botanicacaroliniana/index.html) website.
+- [botcar-vagrant-cite](https://github.com/botcar/botcar-vagrant-cite). A repository (very much "under construction") for [Vagrant](http://www.vagrantup.com) Virtual Machine, intended to provide easy replication of all data, online databases, and online services for the _Botanica Caroliniana_ project.
+
+[cts] http://www.homermultitext.org/hmt-docs/specifications/cts/specification.html "Canonical Text Services Specification"
+[cite] http://folio.furman.edu/projects/cite/four_urls.html "An overview of the CITE architecture."
+
+
+
+
