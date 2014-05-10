@@ -14,13 +14,11 @@ _Botanica Caroliniana_ has received generous support from the Andrew W. Mellon F
 
 - [BotCar Oranization Page](https://github.com/botcar). The [GitHub Organization](https://github.com/blog/674-introducing-organizations) that brings together the various data repositories for the project.
 - [botcar.github.io](https://github.com/botcar/botcar.github.io). This informational repository.
-- [botcar-data](https://github.com/botcar/botcar-data). XML texts, [CTS Text Inventories][cts], [CITE Image and Data collections][cite].
+- [botcar-data](https://github.com/botcar/botcar-data). XML texts, [CTS Text Inventories](http://www.homermultitext.org/hmt-docs/specifications/cts/specification.html), [CITE Image and Data collections](http://folio.furman.edu/projects/cite/four_urls.html).
 - [botcar-servlet](https://github.com/botcar/botcar-servlet). A fork of the [CITE Servlet](https://github.com/cite-architecture/citeservlet) for serving texts, images, and data via CITE/CTS.
 - [botcar-website](https://github.com/botcar/botcar-website). The repository for the [Botanica Caroliniana](http://folio.furman.edu/projects/botanicacaroliniana/index.html) website.
 - [botcar-vagrant-cite](https://github.com/botcar/botcar-vagrant-cite). A repository (very much "under construction") for [Vagrant](http://www.vagrantup.com) Virtual Machine, intended to provide easy replication of all data, online databases, and online services for the _Botanica Caroliniana_ project.
 
-[cts] http://www.homermultitext.org/hmt-docs/specifications/cts/specification.html "Canonical Text Services Specification"
-[cite] http://folio.furman.edu/projects/cite/four_urls.html "An overview of the CITE architecture."
 
 
 
